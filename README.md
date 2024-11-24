@@ -3,12 +3,12 @@
 This is the frontend of the Secret Santa Generator web application. It allows users to upload two files (employee list and last year's Secret Santa assignments) and generate a new Secret Santa list for this year. The frontend is built with React and styled with CSS.
 
 ## Features
-
+e
 - **File Upload**: Allows users to upload two files:
   - Employee List
   - Previous Year's Secret Santa List
 - **Generate Assignments**: Generate this year's Secret Santa assignments based on the uploaded files
-- **Responsive Design**: Works on both desktop and mobile devices
+
 
 ## Prerequisites
 
